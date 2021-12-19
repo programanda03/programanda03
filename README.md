@@ -10,7 +10,7 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="manda-java" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="manda-java" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="right" alt="manda-pic" height="170" style="border-radius:50px;" 
          src="https://media.giphy.com/media/l9it4Ze24R0cAT2d3e/giphy.gif">
   </div>
