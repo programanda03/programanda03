@@ -11,9 +11,8 @@
 
   <div style="display: inline_block"><br>
   <img align="center" alt="manda-java" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="right" alt="manda-pic" height="150" style="border-radius:50px;" 
-         src="https://share-cdn.picrew.me/shareImg/org/202112/338224_ay7hJGgK.png">
-         src="https://share-cdn.picrew.me/shareImg/org/202112/338224_iPsXLdaf.png" 
+    <img align="right" alt="manda-pic" height="200" style="border-radius:50px;" 
+         src="https://media.giphy.com/media/l9it4Ze24R0cAT2d3e/giphy.gif">
   </div>
   
   ##
