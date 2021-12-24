@@ -7,7 +7,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandaapag03&layout=compact&langs_count=7&theme=dracula"/></div>
   <div style="display: inline_block"><br>
   <img align="center" alt="manda-java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="right" alt="manda-pic" height="170" style="border-radius:50px;" 
+    <img align="right" alt="manda-pic" height="150" style="border-radius:50px;" 
          src="https://media.giphy.com/media/l9it4Ze24R0cAT2d3e/giphy.gif"> </div>
   
   ##
