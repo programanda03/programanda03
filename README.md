@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Amanda Pagani 💖
 - 🌱 Atualmente estou estudando Java
 - 📫 Contato: contato.amandapagani791@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: ela/dela - she/her
 <div align="left"><a href="https://github.com/mandaapag03">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mandaapag03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandaapag03&layout=compact&langs_count=7&theme=dracula"/></div>
