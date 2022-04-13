@@ -1,5 +1,5 @@
 ### Olá!! Eu sou Amanda Pagani 💖
-- 🌱 Atualmente estou estudando Java
+- 🌱 Atualmente estou estudando Java e Python
 - 📫 Contato: contato.amandapagani791@gmail.com
 - 😄 Pronouns: ela/dela - she/her
 <div align="left"><a href="https://github.com/mandaapag03">
