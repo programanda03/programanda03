@@ -1,10 +1,12 @@
 ### Olá!! Eu sou Amanda Pagani 💖
-- 🌱 Atualmente estou estudando Java e Python
+#### Bem vindo ao meu portifólio!
+- 🌱 Atualmente estou estudando Python, HTML, CSS, JavaScript
+- 📚 Cursando Análise e Desenvolvimento de Sistemas, Faculdade Impacta de Tecnologia
 - 📫 Contato: contato.amandapagani791@gmail.com
 - 😄 Pronouns: ela/dela - she/her
 <div align="left"><a href="https://github.com/mandaapag03">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mandaapag03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandaapag03&layout=compact&langs_count=7&theme=dracula"/></div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mandaapag03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandaapag03&layout=compact&langs_count=7&theme=dracula"/></div>
   <div style="display: inline_block"><br>
   <img align="center" alt="manda-java" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="manda-java" height="63" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
