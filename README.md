@@ -9,7 +9,10 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandaapag03&layout=compact&langs_count=7&theme=dracula"/></div>
   <div style="display: inline_block"><br>
   <img align="center" alt="manda-java" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="manda-java" height="63" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="manda-python" height="63" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="manda-html" height="63" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="manda-css" height="63" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="manda-javascript" height="53" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="right" alt="manda-pic" height="150" style="border-radius:50px;" 
          src="https://media.giphy.com/media/l9it4Ze24R0cAT2d3e/giphy.gif"> </div>
   
