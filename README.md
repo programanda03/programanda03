@@ -1,6 +1,5 @@
 ### Olá!! Eu sou Amanda Pagani 💖
-#### Bem vindo ao meu portifólio!
-- 🌱 Atualmente estou estudando Python, HTML, CSS, JavaScript
+- 🌱 Meu principal interesse é o desenvolvimento web, estou estudando HTML, CSS, JAVASCRIPT, ASP.NET e ANGULAR
 - 📚 Cursando Análise e Desenvolvimento de Sistemas, Faculdade Impacta de Tecnologia
 - 📫 Contato: contato.amandapagani791@gmail.com
 - 😄 Pronouns: ela/dela - she/her
