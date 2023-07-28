@@ -1,5 +1,5 @@
 ### Olá!! Eu sou Amanda Pagani 💖
-- 🌱 Meu principal interesse é o desenvolvimento web, estou estudando HTML, CSS, Javascript, ASP.NET e Angular
+- 🌱 Meu principal interesse é o desenvolvimento web, ASP.NET e Angular
 - 📚 Cursando Análise e Desenvolvimento de Sistemas, Faculdade Impacta de Tecnologia
 - 📫 Contato: contato.amandapagani791@gmail.com
 - 😄 Pronouns: ela/dela - she/her
