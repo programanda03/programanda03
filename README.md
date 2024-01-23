@@ -1,6 +1,6 @@
 ### Olá!! Eu sou Amanda Pagani 💖
 - 🌱 Meu principal interesse é o desenvolvimento web, ASP.NET e Angular
-- 📚 Cursando Análise e Desenvolvimento de Sistemas, Faculdade Impacta de Tecnologia
+- 📚 Cursando Análise e Desenvolvimento de Sistemas e Banco de dados, Faculdade Impacta de Tecnologia
 - 📫 Contato: contato.amandapagani791@gmail.com
 - 😄 Pronouns: ela/dela - she/her
 <div align="left"><a href="https://github.com/mandaapag03">
