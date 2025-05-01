@@ -1,6 +1,6 @@
 ###
 
-<img align="right" alt="manda-pic" height="150" style="border-radius:90px" src="https://media.giphy.com/media/l9it4Ze24R0cAT2d3e/giphy.gif"/>
+<img align="right" alt="manda-pic" width="150" style="border-radius:90px" src="https://media.giphy.com/media/l9it4Ze24R0cAT2d3e/giphy.gif"/>
 
 ### Olá!! Eu sou Amanda Pagani 💖
 - 💻 Back-end Developer @ Mercado Livre
