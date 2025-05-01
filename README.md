@@ -16,7 +16,7 @@
 
   **Software Developer** \
   [**Mercado Livre**](https://careers-meli.mercadolibre.com/pt) • Full-time \
-  Linguagens & Tecnologias: `GoLang` , `Java`, `Fury`, `Datadog`, `OpenTelemetry`\
+  Linguagens & Tecnologias: `GoLang` , `Java`, `Fury`, `Datadog`, `OpenTelemetry`, `NoSQL`\
   Produtos: [Mercado Pago](https://www.mercadopago.com.br)
   - Experiencia com aplicações financeiras de alta performance e com arquitetura de microserviços e desenvolvimento performático em aplicações críticas e monitoramento.
   <br/>
@@ -25,7 +25,7 @@
 
   **IT Intern** \
   [**Scania Latin America**](https://www.scania.com/br/pt/home.html) • Internship \
-  Linguagens & Tecnologias: `Angular`, `.NET`, `Control-M`, `Python`, `Jenkins`, `Oracle`\
+  Linguagens & Tecnologias: `Angular`, `.NET`, `Control-M`, `Python`, `Oracle`, `PostgreSQL`, `Jenkins`,\
   Digital Office and Data Management - Inovação
   - Projeto Integration Portal, portal de automação de processos em DB Oracle e integração de soluções com foco em execução de processos.
   - Suporte a sistemas de gameficação e engajamento para toda a organização e Data Warehouse.
