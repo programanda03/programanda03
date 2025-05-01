@@ -1,18 +1,12 @@
-[<img align="right" alt="manda-pic" height="180" style="border-radius:90" src="https://media.giphy.com/media/l9it4Ze24R0cAT2d3e/giphy.gif"/>](https://github.com/programanda03/programanda03)
+###
+
+<img align="right" alt="manda-pic" height="150" style="border-radius:90px" src="https://media.giphy.com/media/l9it4Ze24R0cAT2d3e/giphy.gif"/>
 
 ### Olá!! Eu sou Amanda Pagani 💖
 - 💻 Back-end Developer @ Mercado Livre
 - ​​🎓​ Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia
 - 📫 Contato: contato.amandapagani791@gmail.com
 - 😄 Pronouns: ela/dela - she/her
-
-###
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programanda03&repo=OhMyDog-API&theme=onedark)](https://github.com/programanda03/OhMyDog-API) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programanda03&repo=EducambiAPI&theme=onedark)](https://github.com/programanda03/EducambiAPI)
-  
-  [![card](https://github-readme-stats.vercel.app/api?username=programanda03&theme=onedark&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=programanda03&hide=html,css,dockerfile&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
 
  ### Experiência de trabalho
 
@@ -36,10 +30,15 @@
   - Projeto Integration Portal, portal de automação de processos em DB Oracle e integração de soluções com foco em execução de processos.
   - Suporte a sistemas de gameficação e engajamento para toda a organização e Data Warehouse.
   <br/>
-  
+
+####
 
   Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/amanda-pagani-lima) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-  ###
+##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programanda03&repo=OhMyDog-API&theme=onedark)](https://github.com/programanda03/OhMyDog-API) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programanda03&repo=EducambiAPI&theme=onedark)](https://github.com/programanda03/EducambiAPI)
+
+[![card](https://github-readme-stats.vercel.app/api?username=programanda03&theme=onedark&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=programanda03&hide=html,css,dockerfile&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
   <div>
     <a href="https://www.linkedin.com/in/amanda-pagani-lima/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
