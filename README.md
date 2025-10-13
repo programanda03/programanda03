@@ -36,7 +36,8 @@
   Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/amanda-pagani-lima) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programanda03&repo=OhMyDog-API&theme=onedark)](https://github.com/programanda03/OhMyDog-API) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programanda03&repo=EducambiAPI&theme=onedark)](https://github.com/programanda03/EducambiAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fiap-grupo95&repo=mecanica_xpto&theme=onedark)](https://github.com/fiap-grupo95/mecanica_xpto) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programanda03&repo=OhMyDog-API&theme=onedark)](https://github.com/programanda03/OhMyDog-API) 
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programanda03&repo=EducambiAPI&theme=onedark)](https://github.com/programanda03/EducambiAPI) -->
 
 [![card](https://github-readme-stats.vercel.app/api?username=programanda03&theme=onedark&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=programanda03&hide=html,css,dockerfile&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
