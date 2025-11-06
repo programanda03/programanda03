@@ -4,6 +4,7 @@
 
 ### Olá!! Eu sou Amanda Pagani 💖
 - 💻 Back-end Developer @ Mercado Livre
+- 🎓​ Cursando Pós Graduação em Software Archtecture na POS TECH FIAP
 - ​​🎓​ Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia
 - 📫 Contato: contato.amandapagani791@gmail.com
 - 😄 Pronouns: ela/dela - she/her
