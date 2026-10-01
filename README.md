@@ -3,8 +3,8 @@
 <img align="right" alt="manda-pic" width="150" style="border-radius:90px" src="https://media.giphy.com/media/l9it4Ze24R0cAT2d3e/giphy.gif"/>
 
 ### Olá!! Eu sou Amanda Pagani 💖
-- 💻 Back-end Developer @ Mercado Livre
-- 🎓​ Pós Graduação em Software Architecture na POS TECH FIAP
+- 💻 Back-end Software Engineer @ Mercado Livre
+- 🎓​ Pós Graduação em Software Architecture na Pos Tech da FIAP
 - ​​🎓​ Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia
 - 📫 Contato: contato.amandapagani791@gmail.com
 - 😄 Pronouns: ela/dela - she/her
@@ -13,16 +13,16 @@
 
   Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-  [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://extensions.vtexassets.com/arquivos/ids/156473-800-auto?v=637273976727030000&width=800&height=auto&aspect=true"/>](https://www.spacex.com/)
+  [<img align="left" height="94px" width="94px" alt="logo_meli" src="https://extensions.vtexassets.com/arquivos/ids/156473-800-auto?v=637273976727030000&width=800&height=auto&aspect=true"/>](https://www.spacex.com/)
 
-  **Software Developer** \
+  **Software Engineer - Mid-Level** \
   [**Mercado Livre**](https://careers-meli.mercadolibre.com/pt) • Full-time \
   Linguagens & Tecnologias: `GoLang` , `Java`, `Fury`, `Datadog`, `OpenTelemetry`, `NoSQL`\
-  Produtos: [Mercado Pago](https://www.mercadopago.com.br)
+  Processing [Mercado Pago](https://www.mercadopago.com.br)
   - Experiencia com aplicações financeiras de alta performance e com arquitetura de microserviços e desenvolvimento performático em aplicações críticas e monitoramento.
   <br/>
 
-  [<img align="left" height="94px" width="94px" alt="Nubank" src="https://brandlogos.net/wp-content/uploads/2022/02/scania-logo-brandlogos.net_.png"/>](https://nubank.com.br/)
+  [<img align="left" height="94px" width="94px" alt="logo_scania" src="https://brandlogos.net/wp-content/uploads/2022/02/scania-logo-brandlogos.net_.png"/>](https://nubank.com.br/)
 
   **IT Intern** \
   [**Scania Latin America**](https://www.scania.com/br/pt/home.html) • Internship \
